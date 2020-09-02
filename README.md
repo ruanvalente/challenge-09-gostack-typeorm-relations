@@ -27,7 +27,7 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Alquipo/GoStack12-desafio-09https://github.com/ruanvalente/challenge-09-gostack-typeorm-relations
+$ git clone https://github.com/ruanvalente/challenge-09-gostack-typeorm-relations
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd challenge-09-gostack-typeorm-relations
